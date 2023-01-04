@@ -1,0 +1,15 @@
+*{
+    margin:0px;
+    padding:0px;padding:10px;
+}
+
+h1{
+    font-size:28px;
+    padding:10px
+    
+}
+nav{
+    display:flex;
+    justify-content:space-between;
+    background-color: grey;
+}
